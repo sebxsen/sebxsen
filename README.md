@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Sebastián Escalante</h1>
 <p align="center">
-  <strong>Desarrollador Junioir Fullstack</strong> 
+  <strong>Desarrollador Junior Fullstack</strong> 
 </p>
 
 ---
@@ -38,7 +38,7 @@ Actualmente estoy cursando Ingeniería de Software y formándome constantemente 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sebxsen&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-   Nota: gran parte de mi trabajo actual se desarrolla en GitLab y proyectos privados, por eso mi actividad pública en GitHub puede verse reducida.
+   Nota: Gran parte de mi trabajo actual y proyectos privados se desarrolla en GitLab, por eso mi actividad pública en GitHub puede verse reducida.
 </p>
 
 
