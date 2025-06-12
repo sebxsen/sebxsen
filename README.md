@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 Sobre mí
+###  Sobre mí
 
 Soy desarrollador de software con experiencia en el desarrollo de aplicaciones web modernas utilizando tecnologías como **React**, **Next.js**, **Tailwind CSS**, **Python (Flask y FastAPI)**, y bases de datos como **PostgreSQL** y **MySQL**. Me especializo en construir interfaces responsivas, optimizar rendimiento y conectar backend y frontend mediante APIs RESTful seguras.
 
@@ -13,7 +13,7 @@ Actualmente estoy cursando Ingeniería de Software y formándome constantemente 
 
 ---
 
-### 🚀 Tecnologías que uso
+###  Tecnologías que uso
 
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />  
@@ -31,7 +31,7 @@ Actualmente estoy cursando Ingeniería de Software y formándome constantemente 
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sebxsen&show_icons=true&theme=tokyonight" />
