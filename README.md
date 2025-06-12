@@ -36,7 +36,10 @@ Actualmente estoy cursando Ingeniería de Software y formándome constantemente 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sebxsen&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sebxsen&theme=tokyonight&hide_border=true" />
+  Nota: gran parte de mi trabajo actual se desarrolla en GitLab y proyectos privados, por eso mi actividad pública en GitHub puede verse reducida.
 </p>
+
+
 
 ---
 
