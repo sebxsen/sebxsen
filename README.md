@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Sebastián Escalante</h1>
+<h1 align="center">👋 ¡Hola! Soy Sebastian Escalante</h1>
 <p align="center">
   <strong>Desarrollador Junior Fullstack</strong> 
 </p>
