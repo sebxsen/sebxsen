@@ -48,8 +48,6 @@ Actualmente estoy cursando Ingeniería de Software y formándome constantemente 
 ### 📫 Contacto
 
 - 📧 **Correo:** sebastianescalante2006@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/sebastianescalante)  
-- 💼 Portafolio: *[Próximamente]*
 
 ---
 
